@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Why do i need a fucking blood",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "dollars",
+      "body": "Cash Money",
+      "author": "Alfred",
+      "id": 2
+    }
+  ]
+}
